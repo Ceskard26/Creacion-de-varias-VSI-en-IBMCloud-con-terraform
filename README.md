@@ -5,7 +5,7 @@ En este repositorio tendrán el tutorial de creación de 100 máquinas virtuales
 ## Pre-requisitos
 Antes de descargar el script asegúrate de tener lo siguiente:
 - Tener una cuenta en IBM Cloud
-- Instalar la CLI de IBMCloud
+- [Instalar la CLI de IBMCloud](https://cloud.ibm.com/docs/cli?topic=cli-install-ibmcloud-cli&locale=es)
 - Tener un grupo de recursos creado
 - Tener la VPC en donde desplegarás las máquinas creada
 - Subnet de la VPC lista
